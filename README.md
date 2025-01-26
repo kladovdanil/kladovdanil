@@ -1,14 +1,20 @@
-### Hi there 👋, my name is Danil Kladov
-#### I am a Junior Data Analyst
-![I am a Junior Data Analyst](https://i.pinimg.com/736x/e9/bf/45/e9bf455e42cbb5c763a897ba3b5f98b1.jpg)
+### Привет 👋, меня зовут Данил Кладов
+#### Я - Начинающий аналитик данных
+![Я - Начинающий аналитик данных](https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg)
 
-I am eager to learn, strive for professional development, and am ready to apply my data analysis skills in practice. I am focused on learning and willing to master new tools and methods in the field of data analytics to benefit the company and continue evolving as a professional.
+Я - Junior Data Analyst с целью
+найти работу, которая поможет мне развиваться в этой области.
+Я готов учиться, стремлюсь к профессиональному росту и готов применить свои навыки анализа данных на практике. 
+Я нацелен на обучение и готов освоить новые инструменты и методы работы в области аналитики данных, 
+чтобы принести пользу компании и продолжать развиваться как профессионал
 
-Skills: Python (pandas, numpy, spicy, seaborn) / SQL / Tableau / Product metrics
+Skills: Python (pandas, numpy, spicy, seaborn) / SQL / Tableau / Понимание метрик бизнеса и продукта / Теория вероятностей и Мат.Cтат
 
-- 🌱 I’m currently learning data analysis 
-- 👯 I’m looking to collaborate on a cool team in a large company 
+- 🌱 Изучаю и практикую анализ данных 
+- 👯 Ищу работу в крутой команде в крупной IT компании
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kladovdanil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kladovdanil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](kladovdanil)  
-
+<h3 align="left">Связь со мной:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kladovdanil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kladovdanil" height="30" width="40" /></a>
+</p>
