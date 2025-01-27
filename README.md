@@ -25,6 +25,10 @@
 
 <h3 align="left">Связь со мной:</h3>  
 <p align="left">  
-<a href="[https://linkedin.com/in/kladovdanil](https://www.linkedin.com/in/danil-kladov-b65788349/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>  
-<a href="https://t.me/kladovdanil" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/danil-kladov-b65788349/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>  
+<a href="https://t.me/kladovdanil" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="30" width="40" />
+</a>  
 </p>
